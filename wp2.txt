@@ -1,0 +1,21 @@
+P1: The efforts to design a new flag should be motivated by a necessity to accurately represent New Zealand's unique identity in the world as a country and a people.
+P2: The referenda are largely motivated by a necessity to differentiate the flag from the Australian flag and demonstrate New Zealand's independence from Great Britain.
+
+P3: New Zealand is the former colony with the best modern-day integration of its native peoples, cultures, and flora and fauna.
+    C1: We should expect that the flag of New Zealand upholds these same principles.
+P4: The current flag, which consists of the Union Jack (a symbol of the British Empire) and the Southern Cross (a symbol of Christianity), clearly represents little of New Zealand's native culture.
+
+P5: While the majority of nations in the Commonwealth realm do not feature a Union Jack or even its colours in their flag, they continue to have Queen Elizabeth II as their reigning monarch.
+P6: Several of these nations have successfully adopted new flags without disrupting their membership in the Commonwealth, such as Canada.
+    C2: History suggests that the consequences of removing the Union Jack and its colours are unlikely to be quite so drastic.
+        C3: There is little reason to continue to incorporate elements from the original flag especially if they do not help to emphasize New Zealand's unique identity.
+
+P7: The shortlisted flag takes its colours and design heavily from the current flag.
+    C4: The proposed flag is unsuitable and even inappropriate for the original mission of the referendum.
+
+P8: Adopting a new flag is expensive.
+    C5: If it is accepted it will deny the possibility any other flags being considered in the near future, if at all.
+
+Therefore,
+
+C: Kiwis should vote to keep the current flag in the ongoing referendum.
